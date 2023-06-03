@@ -55,3 +55,8 @@ in html  we import css by link
 
 why we use anglar
 angular is alternative to react
+
+day-2
+
+
+
