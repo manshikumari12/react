@@ -58,5 +58,13 @@ angular is alternative to react
 
 day-2
 
+difference between library and framework?
+
+library is something it has one  perpous it fullfill the perpous verywell 
+like jwt
+
+framework is something it gives total built in  around any task.
+like express js
+
 
 
