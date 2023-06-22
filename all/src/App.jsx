@@ -28,6 +28,7 @@ const [isSignedin, setIsSignedin] = useState(false);
 <div>
 <input value={isSignedin} onChange={(e)=>{
   setIsSignedin(e.target.checked)
+  // (e.target.checked
 }} type="checkbox" id="" />
 
 {isSignedin === true ? <h1>hey! I am signed in</h1>:null}

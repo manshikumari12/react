@@ -68,3 +68,13 @@ like express js
 
 
 
+to create the react app
+we have to do npx create-react-app my-app  where 
+my-app  make the file
+npm start = means you can the frontend part in the browser.
+
+after that we start the code by app.js inside src folder
+
+
+
+
