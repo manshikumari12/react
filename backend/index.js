@@ -1,11 +1,13 @@
 const express = require("express")
 const {connection} = require("./db")
-console.log(connection)
+// console.log(connection)
+const {userrouter} = require("./router/user.router")
 const app= express()
 const env= require("dotenv")
 env.config()
 const cors = require('cors');
 app.use(express.json())
+
 
 
 app.listen(process.env.port,async()=>{
